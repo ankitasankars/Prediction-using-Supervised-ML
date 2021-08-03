@@ -4,7 +4,7 @@
 
 This repository contains one of the tasks that I completed while working as an intern for [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
 - **Internship Category** - Data Science and Business Analytics
-- **Internship Duration** - 1 Month (June-2021)
+- **Internship Duration** - 2 Month (June-2021)
 - **Internship Type** - Work from Home
 <br><br><br>
 <img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
